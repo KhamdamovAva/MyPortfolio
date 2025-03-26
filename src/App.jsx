@@ -1,10 +1,9 @@
 import React from 'react'
-import './App.css'
 import Navbar from './components/Navbar'
 import About from './components/About'
 import Technologies from './components/Technologies'
 import Experience from './components/Experience'
-import Header from './components/header'
+import Hero from './components/Hero'
 function App() {
 
   return (
@@ -14,7 +13,7 @@ function App() {
       </div>
       <div className='container mx-auto px-8'>
         <Navbar />
-        <Header />
+        <Hero />
         <About />
         <Technologies />
         <Experience />
