@@ -1,7 +1,7 @@
 import React from 'react'
 import { HERO_CONTENT } from '../data/data'
 import profilePic from '../assets/kevinRushProfile.png'
-function main() {
+function Header() {
   return (
     <div className='border-b border-neutral-900 pb-4 lg:mb-35'>
       <div className='flex flex-wrap'>
@@ -28,4 +28,4 @@ function main() {
   )
 }
 
-export default main
+export default Header

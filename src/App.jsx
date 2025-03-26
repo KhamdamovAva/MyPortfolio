@@ -1,10 +1,10 @@
 import React from 'react'
 import './App.css'
 import Navbar from './components/Navbar'
-import Main from './components/main'
 import About from './components/About'
 import Technologies from './components/Technologies'
 import Experience from './components/Experience'
+import Header from './components/header'
 function App() {
 
   return (
@@ -14,7 +14,7 @@ function App() {
       </div>
       <div className='container mx-auto px-8'>
         <Navbar />
-        <Main />
+        <Header />
         <About />
         <Technologies />
         <Experience />
