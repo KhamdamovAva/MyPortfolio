@@ -1,11 +1,12 @@
-import project1 from "../assets/projects/project-1.jpg";
-import project2 from "../assets/projects/project-2.jpg";
-import project3 from "../assets/projects/project-3.jpg";
-import project4 from "../assets/projects/project-4.jpg";
+import project1 from "../assets/projects/project-1.png";
+import project2 from "../assets/projects/project-2.png";
+import project3 from "../assets/projects/project-3.png";
+import project4 from "../assets/projects/project-4.png";
+import project5 from "../assets/projects/project-5.png";
 
 export const HERO_CONTENT = `I am a Frontend Developer with strong skills in HTML, CSS/SASS, JavaScript, and React.js. I have experience working with Figma, GitHub, Tailwind, and Bootstrap. I am always learning new things and improving my skills by exploring the latest web technologies and best practices. I enjoy solving complex problems and applying my knowledge to real projects that make a difference. My goal is to grow as a professional and contribute to meaningful projects while constantly improving.`;
 
-export const ABOUT_TEXT = `I am a goal-oriented and versatile Frontend Developer passionate about creating efficient and user-friendly web applications. I have experience working with various technologies, including Vite, React, Next.js, and MySQL. My journey in web development began with a deep curiosity about how things work, which has evolved into a constant drive to learn and adapt to new challenges. I enjoy collaborating with teams, solving complex problems, and building high-quality solutions. I love staying active, exploring new technologies, and contributing to meaningful projects.`;
+export const ABOUT_TEXT = `I’m a goal-oriented and flexible Frontend Developer who loves building clean and user-friendly web applications. I have experience with tools like Vite, React, Next.js, and MySQL. My journey in web development started with a strong curiosity about how websites work, which has grown into a passion for learning and solving new challenges. I enjoy working with teams, finding smart solutions, and creating high-quality projects. I also like staying active, trying out new technologies, and being part of meaningful work.`;
 
 export const EXPERIENCES = [
   {
@@ -26,34 +27,47 @@ export const EXPERIENCES = [
 
 export const PROJECTS = [
   {
-    title: "E-Commerce Website",
+    title: "PC Shop Website",
     image: project1,
     description:
-      "A fully functional e-commerce website with features like product listing, shopping cart, and user authentication.",
-    technologies: ["HTML", "CSS", "React", "Node.js", "MongoDB"],
+      "A complex project where I worked with a team on GitHub. The platform includes a wide range of features such as product filtering, currency conversion, site translation, user registration, order processing, product selection and descriptions, modal windows, animations, product search, sliders, and more.",
+    technologies: ["HTML", "Tailwind", "React", "Vite", "API", "Git/GitHub Team"],
+    link: "https://ingamehub.vercel.app/",
   },
   {
-    title: "Task Management App",
+    title: "Coffee Shop",
     image: project2,
     description:
-      "An application for managing tasks and projects, with features such as task creation, assignment, and progress tracking.",
-    technologies: ["HTML", "CSS", "Angular", "Firebase"],
+      "A website where users can explore and purchase various types of coffee, as well as place orders online. The platform includes features like a shopping cart. The site supports online payments and provides a smooth, responsive user interface across all devices. Created to enhance my skills in developing user-friendly e-commerce platforms.",
+    technologies: ["HTML", "CSS", "Vite", "React", "API", "Tailwind"],
+    link: "https://khamdamovava.github.io/Coffee/",
   },
   {
-    title: "Portfolio Website",
+    title: "Hotel Booking Website",
     image: project3,
     description:
-      "A personal portfolio website showcasing projects, skills, and contact information.",
-    technologies: ["HTML", "CSS", "React", "Bootstrap"],
+      "A project for hotel booking and rating. Created to improve my skills and gain experience in building diverse web applications.",
+    technologies: ["HTML", "CSS/SCSS", "JavaScript", "GULP"],
+    link: "https://khamdamovava.github.io/HotelBooking/",
   },
   {
-    title: "Blogging Platform",
+    title: "Lavish Recipe",
     image: project4,
     description:
-      "A platform for creating and publishing blog posts, with features like rich text editing, commenting, and user profiles.",
-    technologies: ["HTML", "CSS", "Vue.js", "Express", "mySQL"],
+      "A project that features a collection of recipes and cooking instructions for various dishes.",
+    technologies: ["HTML", "CSS", "React.js", "API", "Tailwind"],
+    link: "https://lavish-recipe.vercel.app/",
+  },
+  {
+    title: "Music Player",
+    image: project5,
+    description:
+      "A project that allows users to listen to music. Created as a way to strengthen my programming skills and deepen my understanding of web development.",
+    technologies: ["HTML", "CSS", "JavaScript"],
+    link: "https://khamdamovava.github.io/MusicPlayer/",
   },
 ];
+
 
 export const CONTACT = {
   address: "Uzbekistan, Tashkent",

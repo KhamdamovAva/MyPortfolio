@@ -3,13 +3,20 @@ import { PROJECTS } from '../data/data'
 
 function Projects() {
   return (
-    <div className='border-b border-neutral-900 pb-4'>
+    <section className='border-b border-neutral-900 pb-4'>
       <h3 className='my-20 text-center text-4xl'>Projects</h3>
       <div>
         {PROJECTS.map((project, index) => (
           <div key={index} className='mb-8 flex flex-wrap lg:justify-center'>
             <div className="w-full lg:w-1/4">
-              <img className='mb-6 rounded' src={project.image} width={150} height={150} alt={project.title} />
+              <a href={project.link} target="_blank" rel="noopener noreferrer">
+                <img className='mb-6 rounded w-[240px] h-[140px] cursor-pointer'
+                  src={project.image}
+                  width={150}
+                  height={150}
+                  alt={project.title}
+                />
+              </a>
             </div>
             <div className="w-full max-w-xl lg:w-3/4">
               <h6 className='mb-2 font-semibold'>{project.title}</h6>
@@ -22,7 +29,7 @@ function Projects() {
           </div>
         ))}
       </div>
-    </div>
+    </section>
   )
 }
 

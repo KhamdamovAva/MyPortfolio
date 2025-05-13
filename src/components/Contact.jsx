@@ -7,8 +7,8 @@ function Contact() {
       <h3 className='my-10 text-center text-4xl'>Get in Touch</h3>
       <div className='text-center tracking-tighter'>
         <p className='my-4'>{CONTACT.address}</p>
-        <p className='my-4'>{CONTACT.phoneNo}</p>
-        <a className='border-b' href="#">{CONTACT.email}</a>
+        <a className='my-4 block' href={`tel:${CONTACT.phoneNo}`}>{CONTACT.phoneNo}</a>
+        <a className='border-b' href={`mailto:${CONTACT.email}`}>{CONTACT.email}</a>
       </div>
     </div>
   )
