@@ -1,0 +1,80 @@
+{
+  "hero": {
+    "content": "Men Frontend Dasturchiman, HTML, CSS/SASS, JavaScript va React.js bo'yicha mustahkam ko'nikmalarga egaman. Figma, GitHub, Tailwind va Bootstrap bilan ishlash tajribasiga egaman. Har doim yangi narsalarni o'rganishga va o'z ko'nikmalarimni eng yangi veb texnologiyalari va eng yaxshi amaliyotlarni o'rganish orqali takomillashtirishga intilaman. Mening maqsadim - professional sifatida o'sish va doimiy ravishda o'z ustimda ishlay turib, mazmunli loyihalarga hissa qo'shish."
+  },
+
+    "heroName":{
+    "content":"Xamdamov Mirzoavaz"
+  },
+
+  "about": {
+    "content": "Men maqsadga yo'naltirilgan va moslashuvchan Frontend Dasturchiman, toza va foydalanuvchi uchun qulay veb-ilovalar yaratishni yaxshi ko'raman. Vite, React, Next.js va MySQL kabi vositalar bilan tajribam bor. Veb-ishlab chiqishda yo'lim veb-saytlar qanday ishlashiga kuchli qiziqish bilan boshlandi, bu esa yangi tajribalarni o'rganish va yangi chaqiriqlarga yechim topish istagiga aylandi. Men jamoalar bilan ishlashni, aqlli yechimlarni topishni va yuqori sifatli loyihalarni yaratishni yoqtiraman."
+  },
+
+    "aboutMe": {
+    "content": "Mening Haqimda"
+  },
+
+  "TechnoTitle": {
+    "title": "Texnologiyalar"
+  },
+   "exp":{
+    "title":"Tajriba"
+  },
+  "experience": [
+
+    {
+      "year": "2023 - 2024",
+      "course": "CodeClass iT",
+      "description": "HTML, CSS/SASS va JavaScript yordamida javob beruvchi veb-ilovalarni o'rgandim va ishlab chiqdim. Bootstrap yordamida foydalanuvchi interfeyslarini yaratdim va yaxshilangan samaradorlik uchun uslublarni optimallashtirdim. Boshqa talabalar bilan jamoada ishladim, loyihalarni birgalikda amalga oshirib, foydalanuvchi tajribasini yaxshiladik. Photoshop yordamida vizual aktivlarni tahrirlash va yaxshilash ishlari bilan shug'ullandim.",
+      "technologies": ["HTML", "CSS/SASS", "JavaScript", "Bootstrap", "Photoshop"]
+    },
+    {
+      "year": "2024 - 2025",
+      "course": "Astrum iT Academy",
+      "description": "React.js va Next.js yordamida veb-ilovalar uchun foydalanuvchi interfeyslarini ishlab chiqdim. Frontend komponentlarini API-lar bilan integratsiya qilish uchun backend dasturchilari bilan yaqin hamkorlikda ishladim. Tailwind CSS va Figma yordamida zamonaviy va javob beruvchi dizaynlarni yaratdim. Vite yordamida frontend samaradorligini optimallashtirdim, SEO ni yaxshiladim va Git/GitHub yordamida kod versiyalarini boshqardim.",
+      "technologies": ["React.js", "Next.js", "Git/GitHub", "Vite", "Tailwind CSS", "Figma", "SEO", "API/Axios"]
+    }
+  ],
+"proj":{
+    "title":"Loyihalar"
+  },
+
+  "projects": [
+  {
+    "title": "PC Shop Website",
+    "description": "Bu jamoada GitHub-da ishlagan murakkab loyiha. Platformada mahsulotni filtrlash, valuta konvertatsiyasi, saytni tarjima qilish, foydalanuvchi ro'yxatdan o'tish, buyurtma qayta ishlash, mahsulot tanlash va tavsiflari, modal oynalar, animatsiyalar, mahsulot izlash, slaydlar va boshqa bir qator xususiyatlar mavjud.",
+    "technologies": ["HTML", "Tailwind", "React", "Vite", "API", "Git/GitHub Team"],
+    "link": "https://ingamehub.vercel.app/"
+  },
+  {
+    "title": "Coffee Shop",
+    "description": "Foydalanuvchilar turli xil qahvalarni o'rganish va sotib olish, shuningdek, onlayn buyurtmalarni joylashtirish imkonini beradigan sayt. Platformada savat xususiyati mavjud. Sayt onlayn to'lovlarni qo'llab-quvvatlaydi va barcha qurilmalarda silliq va javobgar foydalanuvchi interfeysini taqdim etadi. Foydalanuvchilarga qulay elektron tijorat platformalarini yaratishda tajriba orttirish uchun yaratilgan.",
+    "technologies": ["HTML", "CSS", "Vite", "React", "API", "Tailwind"],
+    "link": "https://khamdamovava.github.io/Coffee/"
+  },
+  {
+    "title": "Hotel Booking Website",
+    "description": "Mehmonxonada buyurtma qilish va reyting tizimi uchun loyiha. Ushbu loyiha web dasturlashda turli xil ilovalarni yaratish va ko'nikmalarimni oshirish maqsadida yaratilgan.",
+    "technologies": ["HTML", "CSS/SCSS", "JavaScript", "GULP"],
+    "link": "https://khamdamovava.github.io/HotelBooking/"
+  },
+  {
+    "title": "Lavish Recipe",
+    "description": "Turli taomlar uchun retseptlar va pishirish bo'yicha ko'rsatmalar to'plami bilan ta'minlaydigan loyiha.",
+    "technologies": ["HTML", "CSS", "React.js", "API", "Tailwind"],
+    "link": "https://lavish-recipe.vercel.app/"
+  },
+  {
+    "title": "Music Player",
+    "description": "Foydalanuvchilarga musiqa tinglash imkonini beradigan loyiha. Web dasturlashni chuqurlashtirish va o'z ko'nikmalarimni rivojlantirish uchun yaratilgan.",
+    "technologies": ["HTML", "CSS", "JavaScript"],
+    "link": "https://khamdamovava.github.io/MusicPlayer/"
+  }
+],
+
+"Contact": {
+  "title": "Bog'lanish"
+}
+
+}

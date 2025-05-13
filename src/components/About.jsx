@@ -1,12 +1,14 @@
+import { useTranslation } from 'react-i18next';
 import aboutImg from "../assets/myPhoto2.jpg";
-import { ABOUT_TEXT } from "../data/data";
 import { motion } from "framer-motion";
 
 function About() {
+  const { t } = useTranslation();
+
   return (
     <section className="border-b border-neutral-900 pb-12">
       <h2 className="my-16 text-center text-4xl font-bold">
-        About <span className="text-neutral-500">Me</span>
+        {t('aboutMe.content')}
       </h2>
 
       <div className="flex flex-col-reverse lg:flex-row items-center gap-10">
@@ -27,7 +29,8 @@ function About() {
           transition={{ duration: 0.5 }}
           className="w-full lg:w-1/2 px-4">
           <p className="max-w-xl text-lg leading-relaxed text-center lg:text-left">
-            {ABOUT_TEXT}
+            {t('about.content')}
+
           </p>
         </motion.div>
 

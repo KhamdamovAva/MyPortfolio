@@ -1,17 +1,21 @@
-import React from 'react'
-import { EXPERIENCES } from '../data/data'
-import { motion } from 'framer-motion'
+import React from 'react';
+import { useTranslation } from 'react-i18next';
+import { motion } from 'framer-motion';
 
 function Experience() {
+  const { t } = useTranslation();
+
   return (
     <section className='border-b border-neutral-900 pb-4'>
       <motion.h3
         whileInView={{ opacity: 1, y: 0 }}
         initial={{ opacity: 1, y: -100 }}
         transition={{ duration: 0.5 }}
-        className='my-20 text-center text-4xl'>Experience</motion.h3>
+        className='my-20 text-center text-4xl'>
+        {t('exp.title')}
+      </motion.h3>
       <div>
-        {EXPERIENCES.map((experience, index) => (
+        {t('experience', { returnObjects: true }).map((experience, index) => (
           <div key={index} className='mb-8 flex flex-wrap lg:justify-center'>
             <motion.div
               whileInView={{ opacity: 1, x: 0 }}
@@ -35,7 +39,7 @@ function Experience() {
         ))}
       </div>
     </section>
-  )
+  );
 }
 
-export default Experience
+export default Experience;

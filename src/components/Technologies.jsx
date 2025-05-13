@@ -1,3 +1,4 @@
+import { useTranslation } from 'react-i18next';
 import { RiReactjsLine } from "react-icons/ri";
 import { TbBrandNextjs } from "react-icons/tb";
 import { SiVitess } from "react-icons/si";
@@ -22,9 +23,11 @@ const iconVariants = (duration) => ({
   }
 })
 function Technologies() {
+  const { t } = useTranslation();
+
   return (
     <section className='border-b border-neutral-800 pb-24'>
-      <h2 className='my-20 text-center text-4xl'>Technologies</h2>
+      <h2 className='my-20 text-center text-4xl'>{t('TechnoTitle.title')}</h2>
       <div className="flex flex-wrap items-center justify-center gap-4">
         <motion.div
           variants={iconVariants(2.5)}
