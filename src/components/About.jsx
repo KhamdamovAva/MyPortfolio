@@ -1,5 +1,6 @@
 import aboutImg from "../assets/myPhoto2.jpg";
 import { ABOUT_TEXT } from "../data/data";
+import { motion } from "framer-motion";
 
 function About() {
   return (
@@ -9,18 +10,26 @@ function About() {
       </h2>
 
       <div className="flex flex-col-reverse lg:flex-row items-center gap-10">
-        <div className="w-full lg:w-1/2 flex justify-center">
+        <motion.div
+          whileInView={{ opacity: 1, x: 0 }}
+          initial={{ opacity: 0, x: -100 }}
+          transition={{ duration: 0.5 }}
+          className="w-full lg:w-1/2 flex justify-center">
           <img
             src={aboutImg}
             alt="About Me"
             className="rounded-2xl w-[300px] sm:w-[350px] lg:w-[390px] h-[450px] object-cover shadow-lg"
           />
-        </div>
-        <div className="w-full lg:w-1/2 px-4">
+        </motion.div>
+        <motion.div
+          whileInView={{ opacity: 1, x: 0 }}
+          initial={{ opacity: 0, x: 100 }}
+          transition={{ duration: 0.5 }}
+          className="w-full lg:w-1/2 px-4">
           <p className="max-w-xl text-lg leading-relaxed text-center lg:text-left">
             {ABOUT_TEXT}
           </p>
-        </div>
+        </motion.div>
 
 
       </div>
