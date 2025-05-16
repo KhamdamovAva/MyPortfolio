@@ -1,6 +1,6 @@
 {
   "hero": {
-    "content": "Men Frontend Dasturchiman, HTML, CSS/SASS, JavaScript va React.js bo'yicha mustahkam ko'nikmalarga egaman. Figma, GitHub, Tailwind va Bootstrap bilan ishlash tajribasiga egaman. Har doim yangi narsalarni o'rganishga va o'z ko'nikmalarimni eng yangi veb texnologiyalari va eng yaxshi amaliyotlarni o'rganish orqali takomillashtirishga intilaman. Mening maqsadim - professional sifatida o'sish va doimiy ravishda o'z ustimda ishlay turib, mazmunli loyihalarga hissa qo'shish."
+    "content": "Men HTML, CSS/SASS, JavaScript va React.js texnologiyalarida kuchli ko'nikmalarga ega Frontend dasturchiman. Tailwind CSS, Bootstrap, GitHub va Figma yordamida foydalanuvchi interfeyslarini ishlab chiqish va sahifalarni tuzishda amaliy tajribam bor. Zamonaviy veb-texnologiyalar va dasturlashdagi eng yaxshi amaliyotlarni doimiy o'rganib boraman. Murakkab muammolarni hal qilish, yangi talab va vaziyatlarga moslashish, foydalanuvchilar uchun foydali mahsulotlar yaratish — menga yoqadi. Maqsadim — professionallikda o'sish, kuchli jamoada ishlash va foydali loyihalarga hissa qo'shish."
   },
 
     "heroName":{
@@ -8,7 +8,7 @@
   },
 
   "about": {
-    "content": "Men maqsadga yo'naltirilgan va moslashuvchan Frontend Dasturchiman, toza va foydalanuvchi uchun qulay veb-ilovalar yaratishni yaxshi ko'raman. Vite, React, Next.js va MySQL kabi vositalar bilan tajribam bor. Veb-ishlab chiqishda yo'lim veb-saytlar qanday ishlashiga kuchli qiziqish bilan boshlandi, bu esa yangi tajribalarni o'rganish va yangi chaqiriqlarga yechim topish istagiga aylandi. Men jamoalar bilan ishlashni, aqlli yechimlarni topishni va yuqori sifatli loyihalarni yaratishni yoqtiraman."
+    "content": "Men toza, tezkor va qulay veb-interfeyslar yaratishga ishtiyoqli Frontend dasturchiman. React, Next.js, Vite va MySQL kabi ma’lumotlar bazalari bilan ishlash tajribasiga egaman. Mening yo'lim saytlar arxitekturasi haqidagi qiziqishdan boshlangan va hozirda amaliy muammolarni hal qilish hamda doimiy o'sishga intilish asosida davom etmoqda. Jamoada ishlash, muammolarni muhandisona yondashuv bilan hal qilish va foydalanuvchilarning raqamli tajribasini yaxshilaydigan loyihalarda qatnashishni qadrlayman."
   },
 
     "aboutMe": {

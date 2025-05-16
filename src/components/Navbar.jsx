@@ -1,7 +1,7 @@
 import React from 'react';
 import { FaLinkedin, FaGithub, FaTelegramPlane } from "react-icons/fa";
 import { useTranslation } from 'react-i18next';
-
+import CV from '../assets/CVResume.pdf'
 function Navbar() {
   const { i18n } = useTranslation();
 
@@ -22,6 +22,7 @@ function Navbar() {
           <a href="https://t.me/Av4Ront1" target="_blank" rel="noreferrer">
             <FaTelegramPlane className="hover:text-sky-500 transition" />
           </a>
+          <a className='text-purple-800 font-bold' href={CV} target="_blank" rel="noopener noreferrer">CV</a>
         </div>
 
         <div className="flex gap-4 justify-center sm:justify-start">

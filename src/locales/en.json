@@ -2,7 +2,7 @@
 
 {
   "hero": {
-    "content": "I am a Frontend Developer with strong skills in HTML, CSS/SASS, JavaScript, and React.js. I have experience working with Figma, GitHub, Tailwind, and Bootstrap. I am always learning new things and improving my skills by exploring the latest web technologies and best practices. I enjoy solving complex problems and applying my knowledge to real projects that make a difference. My goal is to grow as a professional and contribute to meaningful projects while constantly improving."
+    "content": "I am a Frontend Developer with strong skills in HTML, CSS/SASS, JavaScript, and React.js. I have hands-on experience in layout and UI component development using Tailwind CSS, Bootstrap, GitHub, and Figma. I continuously explore modern web technologies and development best practices. I enjoy solving complex problems, adapting to new challenges, and building real products that deliver value to users. My goal is to grow as a professional, contribute to meaningful projects, and work as part of a strong team."
   },
 
   "heroName":{
@@ -10,7 +10,7 @@
   },
 
   "about": {
-    "content": "I’m a goal-oriented and flexible Frontend Developer who loves building clean and user-friendly web applications. I have experience with tools like Vite, React, Next.js, and MySQL. My journey in web development started with a strong curiosity about how websites work, which has grown into a passion for learning and solving new challenges. I enjoy working with teams, finding smart solutions, and creating high-quality projects. I also like staying active, trying out new technologies, and being part of meaningful work."
+    "content": "Frontend developer passionate about building clean, fast, and user-friendly web interfaces. Experienced with React, Next.js, Vite, and working with databases such as MySQL. My journey began with a fascination for website architecture, and today I focus on solving practical problems and continuous growth. I value teamwork, an engineering approach to problem-solving, and contributing to projects that enhance the digital user experience."
   },
 
    "aboutMe": {
