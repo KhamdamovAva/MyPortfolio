@@ -44,6 +44,10 @@
     "title":"Projects"
   },
 
+    "project":{
+    "LinkBtn":"View"
+  },
+
   "projects": [
   {
     "title": "PC Shop Website",

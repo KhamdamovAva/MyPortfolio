@@ -7,7 +7,7 @@ function About() {
 
   return (
     <section className="border-b border-neutral-900 pb-12">
-      <h2 className="my-16 text-center text-4xl font-bold">
+      <h2 className="my-16 text-center text-4xl font-light">
         {t('aboutMe.content')}
       </h2>
 
@@ -30,7 +30,6 @@ function About() {
           className="w-full lg:w-1/2 px-4">
           <p className="max-w-xl text-lg leading-relaxed text-center lg:text-left">
             {t('about.content')}
-
           </p>
         </motion.div>
 

@@ -32,7 +32,7 @@ function Hero() {
               variants={fadeInFromLeft(0)}
               initial="hidden"
               animate="visible"
-              className="text-4xl sm:text-5xl lg:text-6xl font-light tracking-tight mt-12">
+              className="text-[30px] sm:text-5xl lg:text-6xl font-light tracking-tight mt-12">
               {t('heroName.content')}
             </motion.h1>
 

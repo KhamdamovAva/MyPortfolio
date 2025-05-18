@@ -22,7 +22,7 @@ function Navbar() {
           <a href="https://t.me/Av4Ront1" target="_blank" rel="noreferrer">
             <FaTelegramPlane className="hover:text-sky-500 transition" />
           </a>
-          <a className='text-purple-800 font-bold' href={CV} target="_blank" rel="noopener noreferrer">CV</a>
+          <a className='text-amber-300 font-bold' href={CV} target="_blank" rel="noopener noreferrer">CV</a>
         </div>
 
         <div className="flex gap-4 justify-center sm:justify-start">

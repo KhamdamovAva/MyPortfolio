@@ -40,6 +40,10 @@
     "title":"Loyihalar"
   },
 
+     "project":{
+    "LinkBtn":"Ko'rish"
+  },
+
   "projects": [
   {
     "title": "PC Shop Website",
