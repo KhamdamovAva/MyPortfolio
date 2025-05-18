@@ -32,7 +32,7 @@ function Projects() {
                   alt={project.title}
                 />
               </a>
-              <button className='w-[100px] p-[4px] bg-neutral-900 text-purple-700 rounded-[5px]'><a href={project.link}>{t('project.LinkBtn')}</a></button>
+              <button className='mb-[40px] w-[100px] p-[4px] bg-neutral-900 text-purple-700 rounded-[5px]'><a href={project.link}>{t('project.LinkBtn')}</a></button>
             </motion.div>
 
             <motion.div
