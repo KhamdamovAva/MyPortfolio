@@ -45,12 +45,7 @@
   },
 
   "projects": [
-  {
-    "title": "PC Shop Website",
-    "description": "Bu jamoada GitHub-da ishlagan murakkab loyiha. Platformada mahsulotni filtrlash, valuta konvertatsiyasi, saytni tarjima qilish, foydalanuvchi ro'yxatdan o'tish, buyurtma qayta ishlash, mahsulot tanlash va tavsiflari, modal oynalar, animatsiyalar, mahsulot izlash, slaydlar va boshqa bir qator xususiyatlar mavjud.",
-    "technologies": ["HTML", "Tailwind", "React", "Vite", "API", "Git/GitHub Team"],
-    "link": "https://ingamehub.vercel.app/"
-  },
+ 
   {
     "title": "Coffee Shop",
     "description": "Foydalanuvchilar turli xil qahvalarni o'rganish va sotib olish, shuningdek, onlayn buyurtmalarni joylashtirish imkonini beradigan sayt. Platformada savat xususiyati mavjud. Sayt onlayn to'lovlarni qo'llab-quvvatlaydi va barcha qurilmalarda silliq va javobgar foydalanuvchi interfeysini taqdim etadi. Foydalanuvchilarga qulay elektron tijorat platformalarini yaratishda tajriba orttirish uchun yaratilgan.",

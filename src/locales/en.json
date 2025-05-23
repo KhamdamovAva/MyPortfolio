@@ -49,13 +49,8 @@
   },
 
   "projects": [
-  {
-    "title": "PC Shop Website",
-    "description": "A complex project where I worked with a team on GitHub. The platform includes a wide range of features such as product filtering, currency conversion, site translation, user registration, order processing, product selection and descriptions, modal windows, animations, product search, sliders, and more.",
-    "technologies": ["HTML", "Tailwind", "React", "Vite", "API", "Git/GitHub Team"],
-    "link": "https://ingamehub.vercel.app/"
-  },
-  {
+   
+    {
     "title": "Coffee Shop",
     "description": "A website where users can explore and purchase various types of coffee, as well as place orders online. The platform includes features like a shopping cart. The site supports online payments and provides a smooth, responsive user interface across all devices. Created to enhance my skills in developing user-friendly e-commerce platforms.",
     "technologies": ["HTML", "CSS", "Vite", "React", "API", "Tailwind"],
