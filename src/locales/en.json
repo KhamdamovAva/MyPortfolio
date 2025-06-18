@@ -1,28 +1,26 @@
-
-
 {
   "hero": {
     "content": "I am a Frontend Developer with strong skills in HTML, CSS/SASS, JavaScript, and React.js. I have hands-on experience in layout and UI component development using Tailwind CSS, Bootstrap, GitHub, and Figma. I continuously explore modern web technologies and development best practices. I enjoy solving complex problems, adapting to new challenges, and building real products that deliver value to users. My goal is to grow as a professional, contribute to meaningful projects, and work as part of a strong team."
   },
 
-  "heroName":{
-    "content":"Xamdamov Mirzoavaz"
+  "heroName": {
+    "content": "Xamdamov Mirzoavaz"
   },
 
   "about": {
     "content": "Frontend developer passionate about building clean, fast, and user-friendly web interfaces. Experienced with React, Next.js, Vite, and working with databases such as MySQL. My journey began with a fascination for website architecture, and today I focus on solving practical problems and continuous growth. I value teamwork, an engineering approach to problem-solving, and contributing to projects that enhance the digital user experience."
   },
 
-   "aboutMe": {
+  "aboutMe": {
     "content": "About Me"
   },
 
-   "TechnoTitle": {
+  "TechnoTitle": {
     "title": "Technologies"
   },
 
-  "exp":{
-    "title":"Experience"
+  "exp": {
+    "title": "Experience"
   },
 
   "experience": [
@@ -40,44 +38,49 @@
     }
   ],
 
-  "proj":{
-    "title":"Projects"
+  "proj": {
+    "title": "Projects"
   },
 
-    "project":{
-    "LinkBtn":"View"
+  "project": {
+    "LinkBtn": "View"
   },
 
   "projects": [
-   
     {
-    "title": "Coffee Shop",
-    "description": "A website where users can explore and purchase various types of coffee, as well as place orders online. The platform includes features like a shopping cart. The site supports online payments and provides a smooth, responsive user interface across all devices. Created to enhance my skills in developing user-friendly e-commerce platforms.",
-    "technologies": ["HTML", "CSS", "Vite", "React", "API", "Tailwind"],
-    "link": "https://khamdamovava.github.io/Coffee/"
-  },
-  {
-    "title": "Hotel Booking Website",
-    "description": "A project for hotel booking and rating. Created to improve my skills and gain experience in building diverse web applications.",
-    "technologies": ["HTML", "CSS/SCSS", "JavaScript", "GULP"],
-    "link": "https://khamdamovava.github.io/HotelBooking/"
-  },
-  {
-    "title": "Lavish Recipe",
-    "description": "A project that features a collection of recipes and cooking instructions for various dishes.",
-    "technologies": ["HTML", "CSS", "React.js", "API", "Tailwind"],
-    "link": "https://lavish-recipe.vercel.app/"
-  },
-  {
-    "title": "Music Player",
-    "description": "A project that allows users to listen to music. Created as a way to strengthen my programming skills and deepen my understanding of web development.",
-    "technologies": ["HTML", "CSS", "JavaScript"],
-    "link": "https://khamdamovava.github.io/MusicPlayer/"
+      "title": "Sneakers Shop",
+      "description": "A website where users can purchase various types of sneakers and place orders online. The platform includes features such as a shopping cart, bookmarks, search, and filtering. Created to improve my skills in Vue.js and in developing user-friendly e-commerce platforms.",
+      "technologies": ["HTML", "CSS", "Vite", "Vue", "API", "Tailwind"],
+      "link": "https://sneakers-shop-tawny.vercel.app/"
+    },
+
+    {
+      "title": "Coffee Shop",
+      "description": "A website where users can explore and purchase various types of coffee, as well as place orders online. The platform includes features like a shopping cart. The site supports online payments and provides a smooth, responsive user interface across all devices. Created to enhance my skills in developing user-friendly e-commerce platforms.",
+      "technologies": ["HTML", "CSS", "Vite", "React", "API", "Tailwind"],
+      "link": "https://khamdamovava.github.io/Coffee/"
+    },
+    {
+      "title": "Hotel Booking Website",
+      "description": "A project for hotel booking and rating. Created to improve my skills and gain experience in building diverse web applications.",
+      "technologies": ["HTML", "CSS/SCSS", "JavaScript", "GULP"],
+      "link": "https://khamdamovava.github.io/HotelBooking/"
+    },
+    {
+      "title": "Lavish Recipe",
+      "description": "A project that features a collection of recipes and cooking instructions for various dishes.",
+      "technologies": ["HTML", "CSS", "React.js", "API", "Tailwind"],
+      "link": "https://lavish-recipe.vercel.app/"
+    },
+    {
+      "title": "Music Player",
+      "description": "A project that allows users to listen to music. Created as a way to strengthen my programming skills and deepen my understanding of web development.",
+      "technologies": ["HTML", "CSS", "JavaScript"],
+      "link": "https://khamdamovava.github.io/MusicPlayer/"
+    }
+  ],
+
+  "Contact": {
+    "title": "Get in Touch"
   }
-],
-
-"Contact":{
-  "title":"Get in Touch"
-}
-
 }

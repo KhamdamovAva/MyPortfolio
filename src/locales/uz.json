@@ -3,26 +3,25 @@
     "content": "Men HTML, CSS/SASS, JavaScript va React.js texnologiyalarida kuchli ko'nikmalarga ega Frontend dasturchiman. Tailwind CSS, Bootstrap, GitHub va Figma yordamida foydalanuvchi interfeyslarini ishlab chiqish va sahifalarni tuzishda amaliy tajribam bor. Zamonaviy veb-texnologiyalar va dasturlashdagi eng yaxshi amaliyotlarni doimiy o'rganib boraman. Murakkab muammolarni hal qilish, yangi talab va vaziyatlarga moslashish, foydalanuvchilar uchun foydali mahsulotlar yaratish — menga yoqadi. Maqsadim — professionallikda o'sish, kuchli jamoada ishlash va foydali loyihalarga hissa qo'shish."
   },
 
-    "heroName":{
-    "content":"Xamdamov Mirzoavaz"
+  "heroName": {
+    "content": "Xamdamov Mirzoavaz"
   },
 
   "about": {
     "content": "Men toza, tezkor va qulay veb-interfeyslar yaratishga ishtiyoqli Frontend dasturchiman. React, Next.js, Vite va MySQL kabi ma’lumotlar bazalari bilan ishlash tajribasiga egaman. Mening yo'lim saytlar arxitekturasi haqidagi qiziqishdan boshlangan va hozirda amaliy muammolarni hal qilish hamda doimiy o'sishga intilish asosida davom etmoqda. Jamoada ishlash, muammolarni muhandisona yondashuv bilan hal qilish va foydalanuvchilarning raqamli tajribasini yaxshilaydigan loyihalarda qatnashishni qadrlayman."
   },
 
-    "aboutMe": {
+  "aboutMe": {
     "content": "Mening Haqimda"
   },
 
   "TechnoTitle": {
     "title": "Texnologiyalar"
   },
-   "exp":{
-    "title":"Tajriba"
+  "exp": {
+    "title": "Tajriba"
   },
   "experience": [
-
     {
       "year": "2023 - 2024",
       "course": "CodeClass iT",
@@ -36,44 +35,48 @@
       "technologies": ["React.js", "Next.js", "Git/GitHub", "Vite", "Tailwind CSS", "Figma", "SEO", "API/Axios"]
     }
   ],
-"proj":{
-    "title":"Loyihalar"
+  "proj": {
+    "title": "Loyihalar"
   },
 
-     "project":{
-    "LinkBtn":"Ko'rish"
+  "project": {
+    "LinkBtn": "Ko'rish"
   },
 
   "projects": [
- 
-  {
-    "title": "Coffee Shop",
-    "description": "Foydalanuvchilar turli xil qahvalarni o'rganish va sotib olish, shuningdek, onlayn buyurtmalarni joylashtirish imkonini beradigan sayt. Platformada savat xususiyati mavjud. Sayt onlayn to'lovlarni qo'llab-quvvatlaydi va barcha qurilmalarda silliq va javobgar foydalanuvchi interfeysini taqdim etadi. Foydalanuvchilarga qulay elektron tijorat platformalarini yaratishda tajriba orttirish uchun yaratilgan.",
-    "technologies": ["HTML", "CSS", "Vite", "React", "API", "Tailwind"],
-    "link": "https://khamdamovava.github.io/Coffee/"
-  },
-  {
-    "title": "Hotel Booking Website",
-    "description": "Mehmonxonada buyurtma qilish va reyting tizimi uchun loyiha. Ushbu loyiha web dasturlashda turli xil ilovalarni yaratish va ko'nikmalarimni oshirish maqsadida yaratilgan.",
-    "technologies": ["HTML", "CSS/SCSS", "JavaScript", "GULP"],
-    "link": "https://khamdamovava.github.io/HotelBooking/"
-  },
-  {
-    "title": "Lavish Recipe",
-    "description": "Turli taomlar uchun retseptlar va pishirish bo'yicha ko'rsatmalar to'plami bilan ta'minlaydigan loyiha.",
-    "technologies": ["HTML", "CSS", "React.js", "API", "Tailwind"],
-    "link": "https://lavish-recipe.vercel.app/"
-  },
-  {
-    "title": "Music Player",
-    "description": "Foydalanuvchilarga musiqa tinglash imkonini beradigan loyiha. Web dasturlashni chuqurlashtirish va o'z ko'nikmalarimni rivojlantirish uchun yaratilgan.",
-    "technologies": ["HTML", "CSS", "JavaScript"],
-    "link": "https://khamdamovava.github.io/MusicPlayer/"
+    {
+      "title": "Krossovkalar do'koni",
+      "description": "Foydalanuvchilar turli xil krossovkalarni xarid qilishlari va onlayn buyurtma berishlari mumkin bo'lgan veb-sayt. Platforma savat, saqlanganlar (zakladkalar), qidiruv va filtr kabi funksiyalarni o'z ichiga oladi. Vue.js va qulay e-commerce platformalarini ishlab chiqish bo'yicha ko'nikmalarimni oshirish maqsadida yaratilgan.",
+      "technologies": ["HTML", "CSS", "Vite", "Vue", "API", "Tailwind"],
+      "link": "https://sneakers-shop-tawny.vercel.app/"
+    },
+    {
+      "title": "Coffee Shop",
+      "description": "A website where users can explore and purchase various types of coffee, as well as place orders online. The platform includes features like a shopping cart. The site supports online payments and provides a smooth, responsive user interface across all devices. Created to enhance my skills in developing user-friendly e-commerce platforms.",
+      "technologies": ["HTML", "CSS", "Vite", "React", "API", "Tailwind"],
+      "link": "https://khamdamovava.github.io/Coffee/"
+    },
+    {
+      "title": "Hotel Booking Website",
+      "description": "Mehmonxonada buyurtma qilish va reyting tizimi uchun loyiha. Ushbu loyiha web dasturlashda turli xil ilovalarni yaratish va ko'nikmalarimni oshirish maqsadida yaratilgan.",
+      "technologies": ["HTML", "CSS/SCSS", "JavaScript", "GULP"],
+      "link": "https://khamdamovava.github.io/HotelBooking/"
+    },
+    {
+      "title": "Lavish Recipe",
+      "description": "Turli taomlar uchun retseptlar va pishirish bo'yicha ko'rsatmalar to'plami bilan ta'minlaydigan loyiha.",
+      "technologies": ["HTML", "CSS", "React.js", "API", "Tailwind"],
+      "link": "https://lavish-recipe.vercel.app/"
+    },
+    {
+      "title": "Music Player",
+      "description": "Foydalanuvchilarga musiqa tinglash imkonini beradigan loyiha. Web dasturlashni chuqurlashtirish va o'z ko'nikmalarimni rivojlantirish uchun yaratilgan.",
+      "technologies": ["HTML", "CSS", "JavaScript"],
+      "link": "https://khamdamovava.github.io/MusicPlayer/"
+    }
+  ],
+
+  "Contact": {
+    "title": "Bog'lanish"
   }
-],
-
-"Contact": {
-  "title": "Bog'lanish"
-}
-
 }
