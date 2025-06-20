@@ -1,5 +1,5 @@
 import { useTranslation } from 'react-i18next';
-import aboutImg from "../assets/myPhoto2.jpg";
+import aboutImg from "../assets/myPhoto3.jpg";
 import { motion } from "framer-motion";
 
 function About() {
